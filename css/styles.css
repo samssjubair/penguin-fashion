@@ -1,0 +1,9 @@
+h1,h2{
+    text-transform: uppercase;
+}
+.logo-image{
+    width: 80px;
+}
+.card img{
+    margin: 0 auto;
+}
