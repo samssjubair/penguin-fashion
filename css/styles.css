@@ -38,8 +38,16 @@ input{
 .moon{
     color:#76C27E;
 }
-.img-bg{
+.img-container{
     background-color: #F1F1F1;
+    
+}
+.img-container img{
+    
+    padding-top: 10px;
+}
+.card img{
+    margin: 0 auto;
 }
 
 .img-card{
