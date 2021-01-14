@@ -61,9 +61,10 @@ nav img{
     margin: 0 auto;
 }
 .contact-sec{
-    height: 250px; 
+    height: 260px; 
     background-color: #dddddd;
     border-radius: 20px;
+    text-align: center;
 }
 .navbar a{
     color: #000000;
@@ -74,7 +75,7 @@ nav img{
     
 }
 .btn-penguin:hover{
-    background-color: #1e1741;
+    background-color: #0d091f;
     padding: 10px 20px;
     
 }
