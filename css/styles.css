@@ -1,9 +1,33 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    font-weight: 400;
+}
 h1,h2{
     text-transform: uppercase;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
 }
+h1{
+    font-size: 5rem;
+    font-weight: 500;
+}
+h3{
+    color: #363958;
+}
+
 .logo-image{
     width: 80px;
 }
-.card img{
+
+.moon{
+    color:#76C27E;
+}
+.img-bg{
+    background-color: #F1F1F1;
+}
+
+.img-card{
     margin: 0 auto;
 }
