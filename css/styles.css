@@ -3,6 +3,9 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #3E3E3E;
     font-weight: 400;
+    background-image: url(../images/Photos/Group\ 33064.png);
+    background-repeat: no-repeat;
+    background-position: 35% 0%;
 }
 h1,h2{
     text-transform: uppercase;
@@ -15,6 +18,17 @@ h1{
 }
 h3{
     color: #363958;
+}
+h5{
+    color: #363958;
+    font-weight: 500;
+}
+input{
+    margin-bottom: 20px;
+}
+
+.card h2{
+    color: #76C27E;
 }
 
 .logo-image{
@@ -32,9 +46,20 @@ h3{
     margin: 0 auto;
 }
 .contact-sec{
-    height: 200px; 
+    height: 250px; 
     background-color: #dddddd;
+    border-radius: 20px;
 }
 .navbar a{
     color: #000000;
+}
+.btn-penguin{
+    background-color: #2b2259;
+    padding: 10px 20px;
+    
+}
+.btn-penguin:hover{
+    background-color: #1e1741;
+    padding: 10px 20px;
+    
 }
