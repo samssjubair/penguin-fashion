@@ -92,6 +92,9 @@ nav img{
     width: 90%;
 }
 @media (max-width: 780px){
+    nav img{
+        width: 150px;
+    }
     h2{
         text-align: center;
     }
