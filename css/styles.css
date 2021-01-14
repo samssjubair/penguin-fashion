@@ -31,3 +31,10 @@ h3{
 .img-card{
     margin: 0 auto;
 }
+.contact-sec{
+    height: 200px; 
+    background-color: #dddddd;
+}
+.navbar a{
+    color: #000000;
+}
