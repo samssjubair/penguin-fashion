@@ -93,7 +93,14 @@ nav img{
 }
 @media (max-width: 780px){
     nav img{
-        width: 150px;
+        width: 180px;
+    }
+    #home img{
+        width: 70%;
+    }
+    .contact-sec{
+        height: 350px; 
+        
     }
     h2{
         text-align: center;
